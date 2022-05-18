@@ -1,0 +1,22 @@
+Hello there!...
+Myself a 3 years experienced PHP Laravel web developer. And I will build your 4 pages website in the next 3 days. And Users will see a very lookreative and responsive design.
+
+Things You'll get: 
+1) The website will be responsive for all the devices. Like for mobile, tab Desktop and whatever you just rotate your tab or mobiles screen, the website will still be responsive. 
+2) A cool contact us page and it will be dynamic too. 
+3) When user will click to the "SEND" button an email will be sent to the user to the admin and also the data will be saved in the database.
+4) An admin panel where you will be able to see the messages the user sent to you from the contact us page. 
+5) Or you directly can see from your mail. 
+6) When user sends any message, s/he will be notified by the website anbd also by mail. There will be a nice email template too. Like I am attaching an image that shows the mail template. The mail template will say like, "Thank you for contacting us. We'll contact you very soon..." Something like this.
+
+What You Need to Provide me:
+Just provide me the details a bit more like the 4 pages how you want them and those pages' name. (Like about us, privacy policy, contact us page and home page, etc).
+And a little explaination of your project. Like why you want this. 
+
+How I'll work:
+After understanding you clearly, I'll just start building the website and after finfshing the design part I'll show you here in upwork. Then if you need any change will do that too. And if all okay, then just will proceed to the backend part.
+
+Why Me:
+I can say myself a bit much-experienced cause already finished over 150 websites related jobs with several clients throughout the world. And now here to explore upwork. So have the ability actually. And I belive if we just proceed to finish, we'll start doing lot of jobs together. And yeah, untill you are pleased with the job totally, I'll continue the work. This will be flexible. 
+
+Thank you very much. Waiting for your text. 
